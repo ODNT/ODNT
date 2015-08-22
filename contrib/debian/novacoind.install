@@ -1,0 +1,2 @@
+debian/bin/olddogsnewtricksd usr/bin
+src/olddogsnewtricksd usr/lib/olddogsnewtricks
